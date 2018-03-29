@@ -1,0 +1,18 @@
+//@import url('https://fonts.googleapis.com/css?family=Lato:100,|Montserrat');
+@import 'partials/variables';
+@import 'partials/landing';
+@import 'partials/themify';
+
+body {
+	font-family: 'Lato-Regular', sans-serif;
+}
+
+h1 {
+	font-family: 'Montserrat';
+}
+
+.edupro__footer {
+	padding: 30px;
+	border-top: 1px solid rgba($default, 0.5);
+	color: $dark-grey;
+}
